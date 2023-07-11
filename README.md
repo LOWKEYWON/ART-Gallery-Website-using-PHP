@@ -9,25 +9,30 @@ sale for three days and you were not able to purchase it just because of lack of
 distance you need to cover from your home to art gallery.
 
 SCOPE OF THE PROJECT
+
 Art Gallery Website is a web application that serves as an efficient platform for customers
 to buy artworks and other products sold by an Artist that is added by theadmin. Every client 
 has the privilege to buy fine arts. The categories sub section that would help user choose the
 type of artwork one is looking for like (oil paintings,stickers, posters etc.). Products that the 
-customers would like to buy can be added to cart and payments are done online and are 
-1. Products: This module contains all the art products available for purchase.
-2. Categories: This module contains a list of sub topics to narrow down thesearch of the
-customer.
-validated by means of CVV (Card Verification Value)
+customers would like to buy can be added to cart and payments are done online.
 
 MODULES IN THE SOFTWARE
 
-The sub topics are listed below.
+1. Products: This module contains all the art products available for purchase.
+2. Categories: This module contains a list of sub topics to narrow down the search of the
+customer.
 
-Paintings
-Posters
-Stickers
-Digital art
-Others
+    The sub topics are listed below.
+
+    1- Paintings
+
+    2- Posters
+
+    3- Stickers
+
+    4- Digital art
+
+    5- Others
 
 3. Cart: This module contains the list of products that the customers wish to buy in a
 single purchase.
