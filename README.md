@@ -22,6 +22,7 @@ validated by means of CVV (Card Verification Value)
 MODULES IN THE SOFTWARE
 
 The sub topics are listed below.
+
 Paintings
 Posters
 Stickers
